@@ -1,20 +1,3 @@
-// // // // BUCLES FOR
-// // // for (let i=0; i < 100;  i++){
-// // //     console.log("estoy vendiento entradas para la peli: - " + [i]);
-
-// // // }
-
-// // for (let index=0;  index < 5;  index++){
-// //     alert("soy una ventana y te muestro el bucle for: " + [index]);
-
-// // }
-
-
-// // let edad = prompt('')
-
-// // WHILE
-
-
 let nombre = prompt(`ingrese su Nombre?`);
 alert (`Bienvenido/a nuestra cerveceria online ${nombre}`);
 let edad= prompt (`ingrese su edad`); 
